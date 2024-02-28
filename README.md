@@ -28,3 +28,6 @@ git push -u origin master
 * 学习 git 冲突解决方法——定位到冲突文件，删除掉冲突标识符号
 
 * 理解 git 分支
+
+
+ git checkout
