@@ -29,3 +29,14 @@ git push -u origin master
 
 * 理解 git 分支
 
+  ​	git checkout -b dev //创建dev分支并且转换到dev分支 == git switch -c dev
+
+  [Git系列教程(四)——git分支管理_git publish-CSDN博客](https://blog.csdn.net/qq_47183158/article/details/123642048?ops_request_misc=%7B%22request%5Fid%22%3A%22170912711916800185823335%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&request_id=170912711916800185823335&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-123642048-null-null.142^v99^pc_search_result_base5&utm_term=git分支管理&spm=1018.2226.3001.4187)
+
+  ​	
+
+* git 回退
+
+* git 合作开发
+
+* git 相关开发工具
