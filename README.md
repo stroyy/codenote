@@ -3,7 +3,7 @@
 
 ```
 git --help  #查看git的命令
-git status #查看远程分支状态
+git status #查看工作区和暂存区有什么区别
 git add .  将代码从工作区增加到本地
 git commit -m "提交说明"  提交到本地 
 git pull    ---  拉取远程代码
@@ -28,3 +28,5 @@ git push -u origin master
 * 学习 git 冲突解决方法——定位到冲突文件，删除掉冲突标识符号
 
 * 理解 git 分支
+
+* 
