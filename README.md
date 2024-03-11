@@ -37,6 +37,18 @@ git push -u origin master
 
 * git 回退
 
-* git 合作开发
+  ``` git
+  git checkout -- [文件名]
+  git reset HEAD [文件名]
+  ```
+
+  
+
+  
 
 * git 相关开发工具
+
+  可视化工具
+
+  	* sourcetree
+  	* 小乌龟
