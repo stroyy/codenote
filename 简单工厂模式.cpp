@@ -67,5 +67,7 @@ int main() {
 	AbstractSmile* obj = factory->createSmile(Type::Lion);
 	obj->transform();
 	obj->ability();
+	delete factory;
+	delete obj;
 	return 0;
 }
